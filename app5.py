@@ -344,7 +344,7 @@ sector = st.sidebar.selectbox(TRANSLATIONS[language]["sector"], ["Agriculture", 
 st.sidebar.subheader("Customize Thresholds")
 thresholds = {
     "Agriculture": {
-        "temp_high": st.sidebar.slider("High Temp (°C)", 15, 35, 20, key="agriculture_temp_high"),
+        "temp_high": st.sidebar.slider("High Temp (°C)", 15, 40, 20, key="agriculture_temp_high"),
         "humidity_high": st.sidebar.slider("High Humidity (%)", 50, 90, 70, key="agriculture_humidity_high")
     },
     "Transportation": {
