@@ -108,6 +108,6 @@ Streamlit for the awesome web framework
 Open-source libraries: Plotly, Folium, Prophet, scikit-learn
 
 Contact 📬
-For questions or feedback, reach out via GitHub Issues or email [your-email@example.com].
+For questions or feedback, reach out via GitHub Issues or email [singhanil854@gmail.com].
 🌧️ Stay ahead of the weather with the Advanced Weather Platform! 🌞
 #WeatherTech #ClimateSolutions #DataDriven #Streamlit #OpenSource
